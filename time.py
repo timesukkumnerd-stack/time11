@@ -197,7 +197,7 @@ plt.axis('off')
 
 
 # จัดระยะห่าง
-plt.tight_layout()
+plt.tight_layout(
 
 # แสดงผล
 plt.show()
